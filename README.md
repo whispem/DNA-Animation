@@ -1,4 +1,4 @@
-# 🧬 DNALoading
+# 🧬 DNA
 
 A **DNA-inspired loading animation** built with SwiftUI!  
 Perfect for adding a **fun, smooth, and eye-catching loading indicator** to your iOS apps.
